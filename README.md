@@ -1,2 +1,14 @@
-# damn-vulnerable-defi
-This repo contains my solutions to the Damn Vulnerable DeFi challenges — rewritten and exploited using Foundry. Each challenge demonstrates a real-world DeFi vulnerability, such as reentrancy, flash loan abuse, and improper access control.
+# 🛠️ Damn Vulnerable DeFi Exploits (Foundry Edition)
+
+Welcome to my walkthrough of the **Damn Vulnerable DeFi** challenges — a series of smart contract puzzles designed to teach and test DeFi security concepts.
+
+This repo is part of my journey to become a top-tier Web3 auditor and builder. Each challenge here has been solved, analyzed, and reimplemented using Foundry for real contest-level practice.
+
+---
+
+## 💡 What’s Inside
+
+- ✅ Exploit contracts rewritten in **Foundry**
+- ✅ Per-challenge `notes.md` explaining the attack vector
+- ✅ Hands-on security learning through real vulnerabilities
+- ✅ Clean, isolated folders for each exploit
