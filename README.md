@@ -9,6 +9,5 @@ This repo is part of my journey to become a top-tier Web3 auditor and builder. E
 ## 💡 What’s Inside
 
 - ✅ Exploit contracts rewritten in **Foundry**
-- ✅ Per-challenge `notes.md` explaining the attack vector
 - ✅ Hands-on security learning through real vulnerabilities
 - ✅ Clean, isolated folders for each exploit
