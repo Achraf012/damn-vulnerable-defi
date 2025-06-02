@@ -4,3 +4,24 @@
 [submodule "Side Entrance/lib/solady"]
 	path = Side Entrance/lib/solady
 	url = https://github.com/Vectorized/solady
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Unstoppable/lib/forge-std"]
+	path = Unstoppable/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "unstoppable/lib/forge-std"]
+	path = unstoppable/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "unstoppable/lib/solmate"]
+	path = unstoppable/lib/solmate
+	url = https://github.com/Rari-Capital/solmate
+[submodule "unstoppable/lib/solady"]
+	path = unstoppable/lib/solady
+	url = https://github.com/Vectorized/solady
+[submodule "unstoppable/lib/openzeppelin-contracts"]
+	path = unstoppable/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule " experiments/non-read-reentrancy/lib/forge-std"]
+	path = " experiments/non-read-reentrancy/lib/forge-std"
+	url = https://github.com/foundry-rs/forge-std
